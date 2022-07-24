@@ -63,7 +63,8 @@ Where:
         <bgYellow> = Yellow(y)      <bgDarkRed> = Dark Red(dr)
         <bgMagenta> = Magenta(m)    <bgDarkYellow> = Dark Yellow(dy)
         <bg/> = Reset Color(white)
-
+	
+	\- call gecho <bgbk>black backgrounded text
 
         <bg#??????> = Custom color by hex (E.G.)
                                         \- call gecho <bg#BC8F8F>hello
